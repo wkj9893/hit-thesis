@@ -382,7 +382,7 @@
    \vspace{15mm}
    \parbox[t][6.5cm][t]{\textwidth}{
      \begin{center}
-       \songti\xiaoer\textbf{\hit@cthesistitleprefix\hit@title@csep\hit@ctitlecover}
+       \songti\xiaoer\textbf{\hit@ctitlecover}
      \end{center}
    }
      \parbox[b][6cm][t]{\textwidth}{
