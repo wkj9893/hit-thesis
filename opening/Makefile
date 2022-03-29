@@ -1,4 +1,4 @@
 run:
-	latexmk
+	latexmk -f
 clean:
 	latexmk -C
